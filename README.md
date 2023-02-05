@@ -4,7 +4,9 @@ A python script that extracts all saved Wi-fi passwords on a Windows machine and
 ## How To Use (Method 1)
 
 ```git clone https://github.com/W8CODE/The_Extractor/```
+
 ```pip install requirements.txt -r```
+
 ```python3 extractor.py```
 
 
@@ -12,3 +14,5 @@ A python script that extracts all saved Wi-fi passwords on a Windows machine and
 
 Download the code as a ```.zip``` file
 ```pip install requirements.txt -r```
+
+```python3 extractor.py```
