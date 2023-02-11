@@ -17,3 +17,9 @@ Download the code as a ```.zip``` file
 ```pip install requirements.txt -r```
 
 ```python3 extractor.py```
+
+
+### Please Note!!!
+
+If you attempt to open the ```saved.txt``` file, the content will be encrypted. To decrept it just run the ```decrypt.py``` script.
+The Wi-Fi SSID & password should be in plain text.
